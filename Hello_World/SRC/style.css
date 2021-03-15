@@ -1,0 +1,11 @@
+/*############################################################
+#
+# Project: 		HelloWorld
+# Name: 		style.css
+# Author: 		Lutz Michael Dittmer
+# Date:   		15.03.2021
+###############################################################*/  
+p {
+        color: blue;
+		font-family:Helvetica;
+      }
